@@ -1,2 +1,1 @@
-# xNoneScript
-xNone Roblox Script Hub
+game.Players.LocalPlayer:Kick("Wait..! 80% Finish.")
